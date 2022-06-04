@@ -1,0 +1,47 @@
+# FS-UAE configuration saved by FS-UAE Launcher
+# Last saved: 2022-06-03 21:48:51
+
+[fs-uae]
+amiga_model = A1200
+bsdsocket_library = 1
+chip_memory = 4096
+cpu = 68040
+floppy_drive_speed = 0
+floppy_image_20 = /mnt/adf/locale-se.adf
+floppy_image_21 = /mnt/adf/locale-tr.adf
+floppy_image_22 = /mnt/adf/locale-uk.adf
+floppy_image_23 = /mnt/adf/locale.adf
+floppy_image_24 = /mnt/adf/mmulibs.adf
+floppy_image_25 = /mnt/adf/modulesa1200_3.2.adf
+floppy_image_26 = /mnt/adf/modulesa2000_3.2.adf
+floppy_image_27 = /mnt/adf/modulesa3000_3.2.adf
+floppy_image_28 = /mnt/adf/modulesa4000d_3.2.adf
+floppy_image_29 = /mnt/adf/modulesa4000t_3.2.adf
+floppy_image_30 = /mnt/adf/modulesa500_3.2.adf
+floppy_image_31 = /mnt/adf/modulesa600_3.2.adf
+floppy_image_32 = /mnt/adf/modulescd32_3.2.adf
+floppy_image_33 = /mnt/adf/storage3.2.adf
+floppy_image_34 = /mnt/adf/workbench3.2.adf
+graphics_card = uaegfx-z3
+graphics_memory = 8192
+hard_drive_0 = a1200hdd.hdf
+hard_drive_1 = /home/iban/FS-UAE/Floppies/utils
+jit_compiler = 1
+joystick_port_1 = none
+x_floppy_image_20_sha1 = c869252702ba68a8c7417a0544b54691fb01dea0
+x_floppy_image_21_sha1 = e5203f82138b7b4087f7477e647d980d864202a5
+x_floppy_image_22_sha1 = df184b6c27908c8dfea063ce2c640f80d4ea9833
+x_floppy_image_23_sha1 = ed190714c4b29f99445a8774ac12441c047a6300
+x_floppy_image_24_sha1 = 8e8e02223bd288b5b09859b805c1f79a3b985a0e
+x_floppy_image_25_sha1 = c920b8a8a74490853895ebb911ca2ba4241146c3
+x_floppy_image_26_sha1 = 457405a4f8b85dd7c0a4b182d09b5731065a12b5
+x_floppy_image_27_sha1 = 8262b55441dead773e6ec883413038338dcc0a06
+x_floppy_image_28_sha1 = e977b7d1038325e251d1973bb62447891513129e
+x_floppy_image_29_sha1 = 78066e6f9d44c56d9a8a464edc9ac490bcf40424
+x_floppy_image_30_sha1 = fff57c357b6bfb37bfc115859f507be16cb3e648
+x_floppy_image_31_sha1 = b68bd8de9a8e464fe944c43ef513677375ea503a
+x_floppy_image_32_sha1 = e223c50db1dd860a51800a72a46fcb01b0b75bb4
+x_floppy_image_33_sha1 = abe0d3bf073819f88e0140182fdf38602e19febc
+x_floppy_image_34_sha1 = 5529ea1b616889220a7d52722d1b8fe4b965dae1
+zorro_iii_memory = 131072
+keyboard_key_mod_m = action_menu

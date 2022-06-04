@@ -1,0 +1,9 @@
+# FS-UAE configuration saved by FS-UAE Launcher
+# Last saved: 2022-06-01 13:28:36
+
+[fs-uae]
+amiga_model = A1200
+cpu = 68EC020
+floppy_drive_speed = 0
+hard_drive_0 = cf4gb.hdf
+jit_compiler = 0
